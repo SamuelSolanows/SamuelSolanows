@@ -21,5 +21,5 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="mssql" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/626/157/png-transparent-sqlite-database-logo-sql-feather-brand-thumbnail.png" alt="mssql" width="40" height="40"/> </a>
 
