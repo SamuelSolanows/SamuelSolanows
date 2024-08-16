@@ -2,7 +2,7 @@
 <table border="0" style="border-collapse: collapse; border-spacing: 0;">
   <tr>
     <td width=25%" style="text-align: center; vertical-align: middle;"><img style="margin = auto;" src="" alt="Foto de perfil" width="100%"/></td>
-    <td width="70%" style="text-align: justify;">Mi nombre es Samuel. Soy un apasionado desarrollador de software, principalmente dedicado al desarrollo móvil. Estoy familiarizado con múltiples lenguajes de programación, diseño de API, SQL y patrones de diseño. Me motiva aprender nuevas herramientas y estar siempre al día con las novedades tecnológicas <br><br><img src="https://github.com/JuanDiegogit/JuanDiegogit/blob/main/Resources/Handshake.gif" height="32px"></td>
+    <td width="70%" style="text-align: justify;">Mi nombre es Samuel. Soy un apasionado desarrollador de software, principalmente dedicado al desarrollo móvil. Estoy familiarizado con múltiples lenguajes de programación, diseño de API, SQL y patrones de diseño. Me motiva aprender nuevas herramientas y estar siempre al día con las novedades tecnológicas</td>
 </table>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
