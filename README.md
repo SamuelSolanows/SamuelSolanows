@@ -1,7 +1,7 @@
 # Analista y Desarrollador de software
 <table border="0" style="border-collapse: collapse; border-spacing: 0;">
   <tr>
-    <td width=25%" style="text-align: center; vertical-align: middle;"><img style="margin = auto;" src="" alt="Foto de perfil" width="100%"/></td>
+    <td width=25%" style="text-align: center; vertical-align: middle;"><img style="margin = auto;" src="https://pbs.twimg.com/profile_images/1835805858032205824/UypTpbjG_400x400.jpg" alt="Foto de perfil" width="100%"/></td>
     <td width="70%" style="text-align: justify;">Mi nombre es Samuel. Soy un apasionado desarrollador de software, principalmente dedicado al desarrollo móvil. Estoy familiarizado con múltiples lenguajes de programación, diseño de API, SQL y patrones de diseño. Me motiva aprender nuevas herramientas y estar siempre al día con las novedades tecnológicas</td>
 </table>
 
